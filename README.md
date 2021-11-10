@@ -22,7 +22,7 @@
 
   ## Usage
 
-  Self Explanatory, follow prompts
+  ![Video:How to use this app](https://watch.screencastify.com/v/76Mws3Vwe6NIFVNU975D)
 
   ## Credits
 
