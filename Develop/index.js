@@ -60,7 +60,7 @@ const questions = [
         default: true
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'What Liscense does this application have?',
         choices: ['Apache_2.0', 'GPLv3', 'MIT', 'ISC'],

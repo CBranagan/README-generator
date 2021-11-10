@@ -1,11 +1,11 @@
 
-  # README Generator
+  # f
   
     ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
    
-  A node application to quickly create professional README's!
+  f
 
   
   ## Table of Contents
@@ -19,15 +19,15 @@
   
   ## Installation
 
-  Once you have cloned the code from the GitHub repo, you will need to run npm install from the develop directiory before you can run this program with Node.
+  f
 
   ## Usage
 
-   How to use this app https://watch.screencastify.com/v/76Mws3Vwe6NIFVNU975D
+  f
 
   ## Credits
 
-  none
+  f
 
  
   
@@ -36,7 +36,6 @@
 
   This application has the following Licensing:
 
-  
   
     https://opensource.org/licenses/MIT
 
@@ -180,12 +179,13 @@ For answers to common questions about this code of conduct, see the FAQ at
 
  ## Tests
 
- none
+ 
 
  ## Questions
 
- GitHub: github.com/CBranagan
- Email: Please email me at chad.branagan@gmail.com with any questions regarding this application.
+ GitHub: https://github.com/y
+
+ Email: Please email me at y with any questions regarding this application.
 
   
   
