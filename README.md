@@ -37,8 +37,7 @@
   This application has the following Licensing:
 
   
-  
-    https://opensource.org/licenses/MIT
+  https://opensource.org/licenses/MIT
 
   
 
