@@ -1,10 +1,22 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-
-  return`
-  ![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)
-  `
+  if (license == "MIT") {
+    return `
+    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
+  }
+  if (license == "GPLv3") {
+    return `
+    ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)`
+  }
+  if (license == "Apache_2.0") {
+    return `
+    ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
+  }
+  if (license == "ISC") {
+    return `
+    ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)`
+  }
   
 }
 
@@ -14,19 +26,19 @@ function renderLicenseLink(license) {
 
   if (license == "MIT") {
     return `
-    https://choosealicense.com/licenses/mit/`
+    https://opensource.org/licenses/MIT`
   }
   if (license == "GPLv3") {
     return `
-    https://choosealicense.com/licenses/gpl-3.0/`
+    https://www.gnu.org/licenses/gpl-3.0`
   }
   if (license == "Apache_2.0") {
     return `
-    https://choosealicense.com/licenses/apache-2.0/`
+    https://opensource.org/licenses/Apache-2.0/`
   }
   if (license == "ISC") {
     return `
-    https://choosealicense.com/licenses/isc/`
+    https://opensource.org/licenses/ISC`
   }
 }
 
@@ -206,7 +218,9 @@ For answers to common questions about this code of conduct, see the FAQ at
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
-  * [License](#license)`
+  * [License](#licenses)
+  * [Tests](#tests)
+  * [Contact](#questions)`
   }
 
 // TODO: Create a function to generate markdown for README

@@ -1,12 +1,12 @@
 
   # README Generator
   
-  ![License: MIT](https://img.shields.io/badge/License-GPLv3-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
   
 
   ## Description
    
-  A node project to quickly create a professional README easily!
+  A node program to quickly create a professional README!\
 
   
   ## Table of Contents
@@ -18,15 +18,15 @@
   
   ## Installation
 
-  When you clone this repo to your local machine, make sure to run npm install before trying to run the application.
+  After cloning the application from the github repo, you will need to naviagte to the root directory and run npm install. Then you will be able to run the app with Node.
 
   ## Usage
 
-  Self Explanatory, follow prompts
+  none
 
   ## Credits
 
-  None
+  none
 
  
   
@@ -37,7 +37,7 @@
 
   
   
-  https://choosealicense.com/licenses/mit
+    https://choosealicense.com/licenses/mit/
 
   
 
@@ -179,9 +179,12 @@ For answers to common questions about this code of conduct, see the FAQ at
 
  ## Tests
 
- None
+ none
 
  ## Questions
 
- CBranagan
- chad.branagan@gmail.com
+ GitHub: github.com/CBranagan
+ Email: Please email me at chad.branagan@gmail.com with any questions regarding this application.
+
+  
+  
