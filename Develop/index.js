@@ -9,12 +9,28 @@ const questions = [
     {
         type: 'input',
         name: 'name',
-        message: 'What is the name of your project?'
+        message: 'What is the name of your project?',
+        validate: nameInput => {
+            if (nameInput) {
+              return true;
+            } else {
+              console.log('Please enter your projects name!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Enter a description of your project.'
+        message: 'Enter a description of your project.',
+        validate: descriptionInput => {
+            if (descriptionInput) {
+              return true;
+            } else {
+              console.log('Please enter your projects description!');
+              return false;
+            }
+          }
     },
     {
         type: 'confirm',
@@ -47,7 +63,15 @@ const questions = [
         type: 'checkbox',
         name: 'license',
         message: 'What Liscense does this application have?',
-        choices: ['Apache_2.0', 'GPLv3', 'MIT', 'ISC']
+        choices: ['Apache_2.0', 'GPLv3', 'MIT', 'ISC'],
+        validate: licenseInput => {
+            if (licenseInput) {
+              return true;
+            } else {
+              console.log('Please enter your projects license!');
+              return false;
+            }
+          }
     },
     {
         type: 'confirm',
@@ -62,8 +86,29 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contact',
-        message: 'Enter how to contact you about this application.'
+        name: 'github',
+        message: 'Please enter your GitHub account.',
+        validate: githubInput => {
+            if (githubInput) {
+              return true;
+            } else {
+              console.log('Please enter your GitHub!');
+              return false;
+            }
+          }
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please enter your email.',
+        validate: emailInput => {
+            if (emailInput) {
+              return true;
+            } else {
+              console.log('Please enter your Email!');
+              return false;
+            }
+          }
     }
 
 ];
@@ -91,6 +136,7 @@ const init = () => {
     inquirer.prompt(questions)
 
     .then(data => {
+        console.log(data)
         return generateMarkdown(data)
     })
     .then(pageMarkdown => {
