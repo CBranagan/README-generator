@@ -14,7 +14,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
-  * [License](#license)
+  * [License](#licenses)
   
   ## Installation
 
