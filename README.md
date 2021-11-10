@@ -183,5 +183,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 
  ## Questions
 
- GitHub: github.com/CBranagan
+ GitHub: https://github.com/CBranagan
+ 
  Email: Please send questions to chad.branagan@gmail.com
