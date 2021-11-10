@@ -6,7 +6,7 @@
 
   ## Description
    
-  A node program to quickly create a professional README!\
+  A node project to quickly create a professional README easily!
 
   
   ## Table of Contents
@@ -14,19 +14,19 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
-  * [License](#license)
+  * [License](#licenses)
   
   ## Installation
 
-  After cloning the application from the github repo, you will need to naviagte to the root directory and run npm install. Then you will be able to run the app with Node.
+  When you clone this repo to your local machine, make sure to run npm install before trying to run the application.
 
   ## Usage
 
-  none
+  How to use this app https://watch.screencastify.com/v/76Mws3Vwe6NIFVNU975D
 
   ## Credits
 
-  none
+  None
 
  
   
@@ -37,7 +37,7 @@
 
   
   
-    https://choosealicense.com/licenses/mit/
+  https://choosealicense.com/licenses/mit
 
   
 
@@ -179,12 +179,10 @@ For answers to common questions about this code of conduct, see the FAQ at
 
  ## Tests
 
- none
+ None
 
  ## Questions
 
- GitHub: github.com/CBranagan
- Email: Please email me at chad.branagan@gmail.com with any questions regarding this application.
-
-  
-  
+ GitHub: https://github.com/CBranagan
+ 
+ Email: Please send questions to chad.branagan@gmail.com
