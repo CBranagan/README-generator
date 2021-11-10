@@ -37,7 +37,7 @@
 
   
   
-  https://choosealicense.com/licenses/MIT
+  https://choosealicense.com/licenses/mit
 
   
 
