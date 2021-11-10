@@ -1,10 +1,14 @@
 
-  # a
+  # README Generator
+  
+  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+  
 
   ## Description
    
-  alkdjfklajdfkl
+  A node project to quickly create a professional README easily!
 
+  
   ## Table of Contents
 
   * [Installation](#installation)
@@ -14,15 +18,15 @@
   
   ## Installation
 
-  alkjdfkjalkdjfa
+  When you clone this repo to your local machine, make sure to run npm install before trying to run the application.
 
   ## Usage
 
-  alkjdflkajsdfkljasf
+  Self Explanatory, follow prompts
 
   ## Credits
 
-  lakjdfklajflkjdsalfjla
+  None
 
  
   
@@ -32,8 +36,6 @@
   This application has the following Licensing:
 
   
-  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-  
   
   https://choosealicense.com/licenses/MIT
 
@@ -42,9 +44,9 @@
 
  
     
-    # Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct
 
-    ## Our Pledge
+## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -177,8 +179,9 @@ For answers to common questions about this code of conduct, see the FAQ at
 
  ## Tests
 
- jahdkfjhakjshdf
+ None
 
- ## Contact
+ ## Questions
 
- ajhsdkfjhasdhjfasjkhfd
+ CBranagan
+ chad.branagan@gmail.com
