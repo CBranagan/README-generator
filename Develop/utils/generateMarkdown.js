@@ -56,7 +56,6 @@ function renderLicenseSection(confirmLicense, license) {
 
   This application has the following Licensing:
 
-  
   ${renderLicenseLink(license)}
 
   `;
@@ -260,7 +259,8 @@ function generateMarkdown(data) {
 
  ## Questions
 
- GitHub: github.com/${data.github}
+ GitHub: https://github.com/${data.github}
+
  Email: Please email me at ${data.email} with any questions regarding this application.
 
   
