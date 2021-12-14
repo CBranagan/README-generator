@@ -24,6 +24,9 @@
   ## Usage
 
   Answer questions and a profesional readme will be created in the dist file
+  
+  Watch this video for an example of how to use this app
+  https://watch.screencastify.com/v/3plRYPlaNJwVy7QgEc9R
 
   ## Credits
 
